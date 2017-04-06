@@ -1,4 +1,4 @@
-# umkc_Hackathon_NOV 2016
+# UMKC_Hackathon_NOV 2016
 
 Sentiment Engine Analysis:
 
